@@ -1,0 +1,53 @@
+So what exactly makes you qualified to do this review Bhav?
+
+Good question! Here's my creds:
+
+I've been working with Odoo for about the last 3 years (Jan 15 - March 18). At the time of writing this Odoo 11 is the version currently being used. I came into the odoo scene when version 8 was just out, and have developed on it from version 7 all the way to 11.
+
+I've served both as a developer and a business analyst on numerous projects, mostly being the tech lead, lead BA and project manager for them as well. My accounting knowledge isn't all that up to the mark with Odoo, so I won't be talking a lot about that.
+
+I've done everything from writing mods, extensions on Odoo to 3rd party integrations with the system. Understood and mapped client workflows technically to the system. Served as an end to end consultant from start to end on most projects.
+
+OK OK, so what exactly is this reivew gonna involve?
+
+It will involve discussions on the main topics/points that Odoo does right and what it needs improvement on.
+
+Alright, well, what does it get right?
+
+1. A solid Web Framework.
+
+For the tech oriented:
+Odoo sports a really solid web framework. One that is customised heavily to suit the product and it shows that a lot of thought has been put into this. If I could strip its web framework alone
+to do web development, I would do that. It certianly would give all other python web frameworks good competition if it was offered seperately as a web framework.
+
+Don't get me wrong, frameworks like Django offer quite a bit of flexibility and features but I still feel like Odoo does it better.
+It just feels a lot more user friendly in the way things are defined and invoked. Its much easier to define fields, models and relationships within it.
+
+Its ORM is top notch and will do the migrations automatically on a simple server restart. No need to makemigrations and migrate as in Django.
+Understandably doing the migrations and producing migration py files gives the user more control but its only in rare conditions that you would need to edit the migration files.
+
+They invest heavily in making their api better. When the new api was introduced in version 8, the whole erp system was re-written in the new api by version 10.
+Re-writing the entire system is no mean feat. It takes a lot of time, manpower and testing to do so. The fact that they were able to do this within 2 years while introducing new features in version releases is impressive.
+
+
+For the non tech oriented:
+This basically means that its built upon a solid underlying framework that is quite stable and sturdy.
+If something has a good base and a lot of thought as been put into building that base, you can be rest assured that the product built upon it is going to be amazing.
+
+2. Uses qualtiy JS and design frameworks.
+
+It runs on the proven and tested MVC framework and is using backbone JS in the frontend from version 9 onwards. 
+Its been getting faster in terms of load times in every version release, and when I say fast, I mean twice as fast compared to the old version.
+Backbone JS has braved through the introduction of many new frameworks. It still stands strong and has the easiest learnig curve compared to new frameworks.
+
+It uses Material UI for its UI/UX. Ah, Material UI, googles bread and butter. Ever thought why google is so good at stuff?
+Well, let me tell you, they invest heavily in simplistic, catchy and lightweight design. 
+Thats how they deliver you their blazing fast search results even on crappy connections.
+Material is has hands down one of the best UI/UX frameworks and thought school that exists in modern times.
+
+Odoo uses the same approach. It doesn't cheap out on its UI/UX design and implementations. From version 9 onwards, their implementation
+of Material UI keeps getting better, which aids in it becoming lighter and faster.
+
+Enough about the frameworks already, what does it have to offer as a product?
+
+3. 
