@@ -50,4 +50,17 @@ of Material UI keeps getting better, which aids in it becoming lighter and faste
 
 Enough about the frameworks already, what does it have to offer as a product?
 
-3. 
+3. Odoo is an all in one Suite. A good one at that.
+
+This is Odoo's biggest pitch to pretty much everyone. It is an all in one solution that has quite a few features.
+It is truly an all in one ERP system to a point that it doesn't matter what industry you're in, it'll match your needs.
+Just don't expect it to be anything other than an ERP system. It wont do very industry specific things.
+
+Sometimes this all in one suite can be a caveat, more on this further down.
+
+4. It is highly customisable, and they want to keep it that way.
+It is highly customisable and is actually built with keeping addons and continuous development in mind.
+You can change it to a point that it doesn't even look like Odoo anymore, it just depends on how much you're willing to spend on it.
+
+
+
